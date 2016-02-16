@@ -1,0 +1,39 @@
+{
+  "name": "tfk-saksbehandling-schools-info",
+  "description": "Get information regarding our schools",
+  "version": "1.0.0",
+  "author": {
+    "name": "Geir Gåsodden",
+    "email": "geir.gasodden@pythonia.no",
+    "url": "https://github.com/zrrrzzt"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.3.0"
+  },
+  "scripts": {
+    "test": "standard && tap --reporter=spec test/*.js",
+    "coverage": "tap test/*.js --coverage",
+    "coveralls": "tap --cov --coverage-report=lcov test/*.js && cat coverage/lcov.info | coveralls",
+    "setup": "npm install && node setup.js"
+  },
+  "keywords": [
+    "tfk",
+    "Telemark fylkeskommune",
+    "Saksbehandling",
+    "Videregående skole"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/telemark/tfk-saksbehandling-schools-info.git"
+  },
+  "bugs": {
+    "url": "http://github.com/telemark/tfk-saksbehandling-schools-info/issues"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "coveralls": "^2.11.6",
+    "standard": "^6.0.5",
+    "tap": "^5.4.4"
+  }
+}
