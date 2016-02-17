@@ -2,71 +2,85 @@
   "874568082": {
     "name": "Rjukan videregående skole",
     "accessGroup": "Elev-Rjukan",
-    "phoneNumber": ""
+    "phoneNumber": "35 91 99 00",
+    "mail": "rjukan.vgs@t-fk.no"
   },
   "874568112": {
     "name": "Telemark tekniske fagskole",
     "accessGroup": "",
-    "phoneNumber": ""
+    "phoneNumber": "",
+    "mail": ""
   },
   "974567997": {
     "name": "Bø vidaregåande skule",
     "accessGroup": "Elev-Bø",
-    "phoneNumber": ""
+    "phoneNumber": "35 91 90 00",
+    "mail": "bo.vgs@t-fk.no"
   },
   "974568004": {
     "name": "Kragerø videregående skole",
     "accessGroup": "Elev-Kragerø",
-    "phoneNumber": ""
+    "phoneNumber": "35 91 95 00",
+    "mail": "kragero.vgs@t-fk.no"
   },
   "974568012": {
     "name": "Notodden videregående skole",
     "accessGroup": "Elev-Notodden",
-    "phoneNumber": ""
+    "phoneNumber": "35 91 85 00",
+    "mail": "notodden.vgs@t-fk.no"
   },
   "974568020": {
     "name": "Porsgrunn videregående skole",
     "accessGroup": "Elev-Porsgrunn",
-    "phoneNumber": ""
+    "phoneNumber": "35 91 75 00",
+    "mail": "porsgrunn.vgs@t-fk.no"
   },
   "974568039": {
     "name": "Skien videregående skole",
     "accessGroup": "Elev-Skien",
-    "phoneNumber": ""
+    "phoneNumber": "35 91 80 00",
+    "mail": "skien.vgs@t-fk.no"
   },
   "974568055": {
     "name": "Vest-Telemark vgs. avd. Dalen",
     "accessGroup": "Elev-Vest-Telemark",
-    "phoneNumber": ""
+    "phoneNumber": "35 91 97 00",
+    "mail": "vest-telemark.vgs@t-fk.no"
   },
   "974568063": {
     "name": "Nome vgs. avd. Lunde",
     "accessGroup": "Elev-Nome",
-    "phoneNumber": ""
+    "phoneNumber": "35 91 88 00",
+    "mail": "nome.vgs@t-fk.no"
   },
   "974568071": {
     "name": "Hjalmar Johansen vgs",
     "accessGroup": "Elev-Hjalmar Johansen",
-    "phoneNumber": ""
+    "phoneNumber": "35 91 83 00",
+    "mail": "hjalmarjohansen.vgs@t-fk.no"
   },
   "974568098": {
     "name": "Bamble vgs. avd. Grasmyr",
     "accessGroup": "Elev-Bamble",
-    "phoneNumber": ""
+    "phoneNumber": "35 91 94 00",
+    "mail": "bamble.vgs@t-fk.no"
   },
   "974568152": {
     "name": "Skogmo videregående skole",
     "accessGroup": "Elev-Skogmo",
-    "phoneNumber": ""
+    "phoneNumber": "35 91 92 00",
+    "mail": "skogmo.vgs@t-fk.no"
   },
   "974568179": {
     "name": "Bamble vgs. avd. Croftholmen",
     "accessGroup": "Elev-Bamble",
-    "phoneNumber": ""
+    "phoneNumber": "35 91 94 00",
+    "mail": "bamble.vgs@t-fk.no"
   },
   "974568187": {
     "name": "Nome vgs. avd. Søve",
     "accessGroup": "Elev-Nome",
-    "phoneNumber": ""
+    "phoneNumber": "35 91 87 00",
+    "mail": "nome.vgs@t-fk.no"
   }
 }
