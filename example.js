@@ -1,5 +1,5 @@
 'use strict'
 
-var getSchoolInfo = require('./index')
+const getSchoolInfo = require('./index')
 
 console.log(getSchoolInfo(974568012))

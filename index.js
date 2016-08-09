@@ -1,8 +1,8 @@
 'use strict'
 
-var schools = require('./lib/data/schools.json')
+const schools = require('./lib/data/schools.json')
 
-function getSchool (orgId) {
+module.exports = orgId => {
   if (!orgId) {
     throw new Error('Missing required input: organizationId')
   }
@@ -14,5 +14,3 @@ function getSchool (orgId) {
     return school
   }
 }
-
-module.exports = getSchool
