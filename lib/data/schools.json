@@ -1,6 +1,7 @@
 {
   "874568082": {
     "name": "Rjukan videregående skole",
+    "shortName": "RJUVS",
     "officialName": "Rjukan videregående skole",
     "accessGroup": "Elev-Rjukan",
     "phoneNumber": "35 91 99 00",
@@ -8,6 +9,7 @@
   },
   "874568112": {
     "name": "Telemark tekniske fagskole",
+    "shortName": "Telemark tekniske fagskole",
     "officialName": "Telemark tekniske fagskole",
     "accessGroup": "",
     "phoneNumber": "",
@@ -15,6 +17,7 @@
   },
   "974567997": {
     "name": "Bø vidaregåande skule",
+    "shortName": "BOEVS",
     "officialName": "Bø vidaregåande skule",
     "accessGroup": "Elev-Bø",
     "phoneNumber": "35 91 90 00",
@@ -22,6 +25,7 @@
   },
   "974568004": {
     "name": "Kragerø videregående skole",
+    "shortName": "KRAVS",
     "officialName": "Kragerø videregående skole",
     "accessGroup": "Elev-Kragerø",
     "phoneNumber": "35 91 95 00",
@@ -29,6 +33,7 @@
   },
   "974568012": {
     "name": "Notodden videregående skole",
+    "shortName": "NOTVS",
     "officialName": "Notodden videregående skole",
     "accessGroup": "Elev-Notodden",
     "phoneNumber": "35 91 85 00",
@@ -36,6 +41,7 @@
   },
   "974568020": {
     "name": "Porsgrunn videregående skole",
+    "shortName": "PORVS",
     "officialName": "Porsgrunn videregående skole",
     "accessGroup": "Elev-Porsgrunn",
     "phoneNumber": "35 91 75 00",
@@ -43,6 +49,7 @@
   },
   "974568039": {
     "name": "Skien videregående skole",
+    "shortName": "SKIVS",
     "officialName": "Skien videregående skole",
     "accessGroup": "Elev-Skien",
     "phoneNumber": "35 91 80 00",
@@ -50,6 +57,7 @@
   },
   "974568055": {
     "name": "Vest-Telemark vgs. avd. Dalen",
+    "shortName": "DALVS",
     "officialName": "Vest-Telemark vidaregåande skule",
     "accessGroup": "Elev-Vest-Telemark",
     "phoneNumber": "35 91 97 00",
@@ -57,6 +65,7 @@
   },
   "974568063": {
     "name": "Nome vgs. avd. Lunde",
+    "shortName": "LUNVS",
     "officialName": "Nome videregående skole",
     "accessGroup": "Elev-Nome",
     "phoneNumber": "35 91 88 00",
@@ -64,6 +73,7 @@
   },
   "974568071": {
     "name": "Hjalmar Johansen vgs",
+    "shortName": "SKIVS",
     "officialName": "Hjalmar Johansen videregående skole",
     "accessGroup": "Elev-Hjalmar Johansen",
     "phoneNumber": "35 91 83 00",
@@ -71,6 +81,7 @@
   },
   "974568098": {
     "name": "Bamble vgs. avd. Grasmyr",
+    "shortName": "BAMVS",
     "officialName": "Bamble videregående skole",
     "accessGroup": "Elev-Bamble",
     "phoneNumber": "35 91 94 00",
@@ -78,6 +89,7 @@
   },
   "974568152": {
     "name": "Skogmo videregående skole",
+    "shortName": "SKOVS",
     "officialName": "Skogmo videregående skole",
     "accessGroup": "Elev-Skogmo",
     "phoneNumber": "35 91 92 00",
@@ -85,6 +97,7 @@
   },
   "974568179": {
     "name": "Bamble vgs. avd. Croftholmen",
+    "shortName": "CROVS",
     "officialName": "Bamble videregående skole",
     "accessGroup": "Elev-Bamble",
     "phoneNumber": "35 91 94 00",
@@ -92,6 +105,7 @@
   },
   "974568187": {
     "name": "Nome vgs. avd. Søve",
+    "shortName": "SOEVS",
     "officialName": "Nome",
     "accessGroup": "Elev-Nome",
     "phoneNumber": "35 91 87 00",
