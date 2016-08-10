@@ -41,8 +41,11 @@ returns
 ```javascript
 { 
   name: 'Notodden videregående skole',
+  shortName: 'NOTVS',
+  officialName: 'Notodden videregående skole',
   accessGroup: 'Elev-Notodden',
-  phoneNumber: '' 
+  phoneNumber: '35 91 85 00',
+  mail: 'notodden.vgs@t-fk.no'
 }
 ```
 
