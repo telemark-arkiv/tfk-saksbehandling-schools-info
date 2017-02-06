@@ -3,6 +3,8 @@
 [![Code Climate](https://codeclimate.com/github/telemark/tfk-saksbehandling-schools-info/badges/gpa.svg)](https://codeclimate.com/github/telemark/tfk-saksbehandling-schools-info)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 # tfk-saksbehandling-schools-info
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/telemark/tfk-saksbehandling-schools-info.svg)](https://greenkeeper.io/)
 Get school info
 
 ## Installation
