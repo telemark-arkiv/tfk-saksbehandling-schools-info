@@ -33,8 +33,8 @@
   "license": "MIT",
   "devDependencies": {
     "coveralls": "2.13.0",
-    "nsp": "2.6.2",
+    "nsp": "2.6.3",
     "standard": "8.6.0",
-    "tap": "10.2.1"
+    "tap": "10.3.1"
   }
 }
