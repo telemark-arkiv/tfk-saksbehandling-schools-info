@@ -1,7 +1,7 @@
 {
   "name": "tfk-saksbehandling-schools-info",
   "description": "Get information regarding our schools",
-  "version": "2.0.21",
+  "version": "2.0.22",
   "author": {
     "name": "Geir Gåsodden",
     "email": "geir.gasodden@pythonia.no",
@@ -34,7 +34,7 @@
   "devDependencies": {
     "standard": "10.0.2",
     "coveralls": "2.13.1",
-    "nsp": "2.7.0",
+    "nsp": "2.6.3",
     "tap": "10.7.1"
   }
 }
